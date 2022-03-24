@@ -6,8 +6,8 @@ using namespace std;
 int main()
 {
 	int i,sum=0;
-	cout<<" enter numbers between 100 & 750 which are divisible by 9"<<endl;
-	i=101;
+	cout<<" enter numbers between 100 to 750 which are divisible by 9"<<endl;
+	i=100;
 	do
 	{
 		if(i%9==0)
